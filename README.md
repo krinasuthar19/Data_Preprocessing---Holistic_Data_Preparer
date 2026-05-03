@@ -1,5 +1,5 @@
 # Holistic Data Preparer
-
+Video Explaination: https://drive.google.com/file/d/12xEOtt9u2W1N0X1JVXBNuToGpjIf37Cu/view?usp=sharing
 ## Project Overview
 Holistic Data Preparer is a comprehensive data preprocessing and feature engineering project designed to prepare raw customer credit data for machine learning modeling.
 
